@@ -44,3 +44,12 @@
 [1;35mpurple[0m
 [1;36mgreencyan[0m
 ```
+
+
+## Colored boxes (multi line)
+```ansi
+[36m
+green
+text
+```
+

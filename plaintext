@@ -1,3 +1,5 @@
+## basics
+
 ```md
 # a
 ```
@@ -12,3 +14,16 @@
 - **a**
 - __a__
 - _a_
+
+
+## colors
+```ansi
+[2;30mgray[0m
+[2;31mred[0m
+[2;32mgold[0m
+[2;34mblue[0m
+[2;35mpurple[0m
+[2;36mgreencyan[0m
+```
+
+

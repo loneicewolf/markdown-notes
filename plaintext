@@ -1,5 +1,7 @@
 ## basics
 
+
+
 ```md
 # a
 ```
@@ -16,7 +18,14 @@
 - _a_
 
 
+
+
+
+
+
+
 ## colors
+
 ```ansi
 [2;30mgray[0m
 [2;31mred[0m
@@ -26,16 +35,12 @@
 [2;36mgreencyan[0m
 ```
 
+## Bold Colors
 ```ansi
-[2;31m[31m
-red text
-here (still will all be red)
-```
-
-`same as above red text but` **`bold`**
-
-```ansi
-[1;31m[31m
-red text
-here (still will all be red)
+[1;30mgray[0m
+[1;31mred[0m
+[1;32mgold[0m
+[1;34mblue[0m
+[1;35mpurple[0m
+[1;36mgreencyan[0m
 ```

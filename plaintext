@@ -26,4 +26,16 @@
 [2;36mgreencyan[0m
 ```
 
+```ansi
+[2;31m[31m
+red text
+here (still will all be red)
+```
 
+`same as above red text but` **`bold`**
+
+```ansi
+[1;31m[31m
+red text
+here (still will all be red)
+```

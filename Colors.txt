@@ -53,5 +53,10 @@ colors 4 (colored text, and **bold** colored text)
 - GREEN/CYAN [2;36mgreencyan[0m [1;36mgreencyan[0m
 ```
 
+# E.g Red is this:
+```ansi
+[2;31m ABC  [0m[1;31m ABC [0m
+```
+
 
 
